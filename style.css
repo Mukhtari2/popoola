@@ -1,0 +1,55 @@
+/* *{
+    background-color: rgb(255, 255, 255);
+} */
+
+form{
+    background-color: rgb(54, 54, 94);
+    width: 400px;
+    border-radius: 20px;padding: 10px 10px 10px 10px;
+    height: 50px;
+    margin-left: 500px; margin-top: 10px; margin-bottom: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 110px; padding-top: 10px;
+}
+
+ img{
+    padding: 20px;
+    width: 150px; 
+    height: 150px;
+    border-radius: 300px;
+    margin-left: 90px;
+    margin-top: 20px;
+   
+ }
+ .about>p{
+    background-color: rgb(54, 54, 94); color: rgb(251, 253, 253);
+    border-radius: 5px;
+    padding: 3px;
+ }
+h2{
+    color: rgba(64, 75, 37, 0.822);
+
+    margin: auto;
+    text-align: center; 
+ }
+
+.birth{
+    color: rgb(26, 24, 25);
+    background-color: rgba(220, 228, 228, 0.658);
+ }
+.number{
+        color: rgb(26, 24, 25);
+        background-color: rgba(220, 228, 228, 0.658);
+ }
+#dateIssued{
+    color: rgb(26, 24, 25);
+    background-color:rgba(220, 228, 228, 0.658);
+}
+#decipline{
+    color: rgb(26, 24, 25);
+    background-color:  rgba(220, 228, 228, 0.658);
+}
+ h3{
+    color: rgb(67, 79, 112);
+}
+
